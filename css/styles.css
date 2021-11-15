@@ -87,6 +87,10 @@ body {
 
 /* Occupation section */
 
+.occupation > .list-item {
+  display: inline-block;
+}
+
 /* Our tem section */
 
 .section-team {
