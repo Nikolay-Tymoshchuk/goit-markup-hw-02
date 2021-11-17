@@ -10,6 +10,7 @@ body {
   background-color: var(--primary-bgcolor);
   color: var(--primary-text-color);
   font-family: Roboto, sans-serif;
+  font-size: 14px;
   letter-spacing: 0.03em;
 }
 
@@ -48,7 +49,6 @@ body {
   text-decoration: unset;
   color: var(--title-text-color);
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
@@ -66,7 +66,6 @@ body {
 .auth-nav .link {
   color: var(--primary-text-color);
   font-weight: 500;
-  font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
 }
@@ -107,14 +106,12 @@ body {
 /* Features section */
 
 .section-features {
-  font-size: 14px;
   line-height: 1.71;
 }
 
 .section-features .title {
   color: var(--title-text-color);
   font-weight: 700;
-  font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
 }
@@ -170,11 +167,9 @@ body {
 
 .section-address {
   background-color: var(--secondary-bgcolor);
-  font-family: Roboto;
-  font-style: normal;
-  font-size: 14px;
   line-height: 1.71;
 }
+
 .section-address .logo {
   color: #ffffff;
 }
